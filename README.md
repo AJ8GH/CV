@@ -22,7 +22,7 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 * My communication skills are excellent and were vital at Revolut, where I managed over 25 stakeholders and interviewed more than 20 candidates weekly. Strong empathy and listening skills were required and ultimately my work drove the growth of the data science team from 20-60 people within 1 year. These same skills enabled me to be a highly effective pair partner and team member at Makers.
 
 ### Collaboration
-* I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created. 
+* I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created.
 
 ### Stakeholder Engagement
 * At Revolut, I worked with senior stakeholders across the business. At the end of 2019, I worked with the Data Science leadership team to solve a problem in the hiring process, where we were losing 80% of candidates at the technical hometask stage. By presenting data from the hiring funnel I demonstrated the problem to the business and worked with the Tech Leads to redesign the task, improving clarity and reducing the time requirement. This led to a 50% increase in candidate progression at hometask stage.
@@ -54,7 +54,7 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 
 **Phaidon International**<br>
 **Senior Consultant – Procurement & Operational Excellence** - *Feb 15 – Nov 16*<br>
-**Recruitment Consultant – Procurement & Supply Chain** - *Feb 13 – Jan 15* 
+**Recruitment Consultant – Procurement & Supply Chain** - *Feb 13 – Jan 15*
 
 * Selected as one of 20 out of 500 employees recognised for performance in first year
 * Applied sustained drive, energy and attention to detail to be promoted to Senior Consultant
@@ -62,33 +62,36 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 
 ********************
 
-## Education
+## Continued Professional Development
 
-### Makers Academy (Jan'21 - Apr'21)
+### Makers Academy
 
-Selected for February 2021 Cohort of Makers Academy, a  highly intensive 16 week software engineering course.
+Highly intensive 16 week software engineering bootcamp - *Jan 21 - Apr 21*
 
-* TDD: Applying outside-in Test Driven Development and Behaviour Driven Development
-* OOP: Application of OOD and SOLID principles, receiving strong feedback from coaches 3rd party assessors
-* Agile & XP: Running stand-ups, retros, sprints, creating MVPs and user stories, to deliver maximum value
-* Databases: Relational and non-relational: SQL, PostgreSQL, MongoDB
-* REST APIs: Building APIs using Ruby, Rails, Node.js
-* CI/CD: Using CircleCI and Travis to automate automate builds, run test suites and generate coverage reports
-* Pair Programming: Highly effective at collaborating and pairing with other developers
+* **TDD:** Applying outside-in **Test Driven Development** and **Behaviour Driven Development**
+* **OOP:** Application of **OOD** and **SOLID** principles, receiving strong feedback from coaches 3rd party assessors
+* **Agile & XP:** Running stand-ups, retros, **sprints**, creating **MVPs** and **user stories**, to deliver maximum value
+* **Databases:** Relational and non-relational: **SQL**, **PostgreSQL**, **MongoDB**
+* **REST APIs:** Building **APIs** using **Ruby**, **Rails**, **Node.js**
+* **CI/CD:** Using **CircleCI** and **Travis** to automate automate builds, run test suites and generate coverage reports
+* **Pair Programming:** Highly effective at **collaborating** and **pairing** with other developers
 
 ### Mentoring
 
 * **Makers Academy:** Volunteered to mentor a fellow Makers student through their time on the course
 * **Exercism:** Selected to join the Ruby mentoring team of the coding learning website Exercism.io
 
-### University of Southampton
-*Sep 08 - Jul 10:* BA Music - 2 years completion
-
 ### Certifications
+
 * Ruby Progamming - **Udemy** - *Dec 20*
 * Learn the Command Line - **CodeAcademy** - *Dec 20*
 * Introduction to Python Programming - **Open University** - *Apr 20*
 * Sales & Marketing Diploma - **ISMM** - *Jul 15*
+
+## Education
+
+### University of Southampton
+BA Music - 2 years completion - *Sep 08 - Jul 10:*
 
 ## Interests
 * *Music:* Grade 8 Distinction in Classical Guitar, Grade 7 in Clarinet
