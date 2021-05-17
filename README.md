@@ -27,12 +27,15 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 ### Stakeholder Engagement
 * At Revolut, I worked with senior stakeholders across the business. At the end of 2019, I worked with the Data Science leadership team to solve a problem in the hiring process, where we were losing 80% of candidates at the technical hometask stage. By presenting data from the hiring funnel I demonstrated the problem to the business and worked with the Tech Leads to redesign the task, improving clarity and reducing the time requirement. This led to a 50% increase in candidate progression at hometask stage.
 
+### Collaboration
+* I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created. 
+
 *************
 
 ## Experience
 
 **Revolut**<br>
-**Talent Lead for Data Science & Software Engineering** *Jun 19 - Nov 21*
+**Talent Lead for Data Science & Software Engineering** - *Jun 19 - Nov 21*
 
 * Interviewed 20+ candidates weekly, requiring excellent communication and organisational skills, driving the growth of the data science organisation from 20 headcount to 60 within 1 year
 * Displayed accuracy & attention to detail in a fast-paced, autonomous environment, consistently delivering on KPIs
@@ -40,15 +43,15 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 * Data driven approach to problem solving - used hiring funnel data to identify process bottle-necks and utilised communication skills in partnering with the business to cut 2 weeks from average time to hire
 
 **Hudson**<br>
-**Senior Consultant – Data Science** *Nov 16 – Jun 19*
+**Senior Consultant – Data Science** - *Nov 16 – Jun 19*
 
 * Demonstrated collaboration and communication leading 3 successful collaborative projects with a data science consultancy, strengthening relationships with mutual clients and generating revenues for both companies
 * Showed entrepreneurship in establishing a data science desk in a new market, generating revenues of over £180K
 * Diversity & inclusion: Championed D&I by making the first 2 diverse data science hires at a leading investment firm
 
 **Phaidon International**<br>
-**Senior Consultant – Procurement & Operational Excellence** *Feb 15 – Nov 16*<br>
-**Recruitment Consultant – Procurement & Supply Chain** *Feb 13 – Jan 15*
+**Senior Consultant – Procurement & Operational Excellence** - *Feb 15 – Nov 16*<br>
+**Recruitment Consultant – Procurement & Supply Chain** - *Feb 13 – Jan 15* 
 
 * Selected as one of 20 out of 500 employees recognised for performance in first year
 * Applied sustained drive, energy and attention to detail to be promoted to Senior Consultant
