@@ -19,16 +19,19 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 ## Skills
 
 ### Communication
-* Demonstrated strong communication skills and EQ during 2 week engineering group project. One team member was unhappy but it wasn’t clear why. I spoke with them and understood that they wanted to work on different tickets. We changed things up and our productivity increased, meaning we were able to complete all of our tickets by the final sprint.
+* My communication skills are excellent and were vital at Revolut, where I managed over 25 stakeholders and interviewed more than 20 candidates weekly. Strong empathy and listening skills were required and ultimately my work drove the growth of the data science team from 20-60 people within 1 year. These same skills enabled me to be a highly effective pair partner and team member at Makers.
 
-### Leadership
-* Most recently displayed during my final project at Makers. Working in a 6 person team with many opinions and ideas, there were challenges in deciding on which core features and functionality to prioritise for our app. I initiated a team wide vote on which features were most important, and crucially how long each would take to implement. This allowed us to prioritise the most important user stories and to make realistic goals based on what we could achieve in the remaining time.
+### Collaboration
+* I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created. 
 
 ### Stakeholder Engagement
 * At Revolut, I worked with senior stakeholders across the business. At the end of 2019, I worked with the Data Science leadership team to solve a problem in the hiring process, where we were losing 80% of candidates at the technical hometask stage. By presenting data from the hiring funnel I demonstrated the problem to the business and worked with the Tech Leads to redesign the task, improving clarity and reducing the time requirement. This led to a 50% increase in candidate progression at hometask stage.
 
-### Collaboration
-* I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created. 
+### Attention to Detail
+* Demonstrated very strong attention to detail, which aided me when debugging, learning new concepts and building complex projects and apps. This is evidenced in the [feedback from my latest review](https://www.linkedin.com/in/adamjonas1/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA2mYQAByubFAbMVPWhifar6qQmehRaZ6Po,1635457412605)/), where I excelled at Debugging, modelling, and writing high-quality, maintainable code.
+
+### Leadership
+* Most recently displayed during my final project at Makers. Working in a 6 person team with many opinions and ideas, there were challenges in deciding on which core features and functionality to prioritise for our app. I initiated a team wide vote on which features were most important, and crucially how long each would take to implement. This allowed us to prioritise the most important user stories and to make realistic goals based on what we could achieve in the remaining time.
 
 *************
 
