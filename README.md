@@ -68,12 +68,13 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 
 Selected for February 2021 Cohort of Makers Academy, a  highly intensive 16 week software engineering course.
 
-* **TDD & BDD:** Applying outside-in TDD, achieving top code quality scores in challenges including Chitter
-* **OOD & OOP:** Application of OOD and SOLID principles, receiving strong feedback from coaches 3rd party assessors
-* **Agile & XP:** Leading and managing stand-ups, sprints, Trello boards and MVPs, keeping my teams on target
-* **Pair Programming:** Daily pairing sessions, building collaborative engineering skills, excellent feedback from peers
-* **EQ:** Trained in communication, feedback and empathy, applied during team projects and pair programming
-* **Self-led learning:** Autonomous structure, requiring excellent self learning and organisation skills
+* TDD: Applying outside-in Test Driven Development and Behaviour Driven Development
+* OOP: Application of OOD and SOLID principles, receiving strong feedback from coaches 3rd party assessors
+* Agile & XP: Running stand-ups, retros, sprints, creating MVPs and user stories, to deliver maximum value
+* Databases: Relational and non-relational: SQL, PostgreSQL, MongoDB
+* REST APIs: Building APIs using Ruby, Rails, Node.js
+* CI/CD: Using CircleCI and Travis to automate automate builds, run test suites and generate coverage reports
+* Pair Programming: Highly effective at collaborating and pairing with other developers
 
 ### Mentoring
 
