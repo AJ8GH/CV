@@ -14,7 +14,7 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 ----------------------------------------------------------|------------------------------------------------------------|------------------------------------
 **[Bowling](https://github.com/AJ8GH/bowling-challenge)** | Bowling Score Calculator app. I test drove the development of this client-side app after learning JavaScript for 1 week | JavaScript, Jasmine, Cypress, TravisCI, Coveralls, NYC, Karma, HTML, CSS, JQuery
 **[Chitter](https://github.com/AJ8GH/chitter-challenge)** | Twitter clone built using Ruby and Sinatra, with MVC architecture and PostgreSQL database | Ruby, Sinatra, PostgreSQL, PG, RSpec, Capybara, Rack, Puma, TravisCI, Coveralls
-**H-Appy**<br>[Frontend](https://github.com/AJ8GH/h-appy-client-clone)<br>[Backend](https://github.com/AJ8GH/h-appy-server-clone) | Final project: An activity suggestion app for which we taught ourselves MERN stack and React Native in 2 weeks, consisting of a [frontend mobile app](https://github.com/AJ8GH/h-appy-client-clone) (React Native) and a [back-end API](https://github.com/AJ8GH/h-appy-server-clone) (Node.js, Express, MongoDB Atlas) | ReactNative, Node.js, Express, MongoDB Atlas, Mocha, Jest, Heroku
+**H-Appy**<br>[Frontend](https://github.com/AJ8GH/h-appy-client-clone)<br>[Backend](https://github.com/AJ8GH/h-appy-server-clone) | Final Makers project - An activity suggestion app, for which we taught ourselves React Native in 2 weeks and built a backend API with Node.js and MongoDB | Node.js, Express, MongoDB Atlas) | ReactNative, Node.js, Express, MongoDB Atlas, Mocha, Jest, Heroku
 
 ## Skills
 
