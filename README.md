@@ -91,7 +91,7 @@ Highly intensive 16 week software engineering bootcamp - *Jan 21 - Apr 21*
 ## Education
 
 ### University of Southampton
-**BA Music** - 2 years completion - *Sep 08 - Jul 10:*
+**BA Music** - 2 years completion - *Sep 08 - Jul 10*
 
 ## Interests
 * *Music:* Grade 8 Distinction in Classical Guitar, Grade 7 in Clarinet
