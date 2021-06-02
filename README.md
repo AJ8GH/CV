@@ -10,12 +10,12 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 
 ## Projects
 
-**Project**                                               | **Description**                                            | **Technologies**
-----------------------------------------------------------|------------------------------------------------------------|------------------------------------
-**H-Appy**<br>[Frontend](https://github.com/AJ8GH/h-appy-client-clone)<br>[Backend](https://github.com/AJ8GH/h-appy-server-clone) | Final Makers project - An activity suggestion app, for which we taught ourselves React Native in 2 weeks and built a backend API with Node.js and MongoDB   | ReactNative, Node.js, Express, MongoDB Atlas, Mocha, Jest, Heroku
-**[Bowling](https://github.com/AJ8GH/bowling-challenge)** | Bowling Score Calculator app. I test drove the development of this client-side app after learning JavaScript for 1 week | JavaScript, Jasmine, Cypress, TravisCI, Coveralls, NYC, Karma, HTML, CSS, JQuery
+**Project** | **Description** | **Technologies**
+------------|-----------------|-----------------
+**H-Appy**<br>[Frontend](https://github.com/AJ8GH/h-appy-client-clone)<br>[Backend](https://github.com/AJ8GH/h-appy-server-clone) | Final project where we learned React Native to build a Mobile app which suggests activity ideas to its users, with a Node API backend | ReactNative, Node.js, Express, MongoDB Atlas, Mocha, Jest, Heroku
+**[Bowling](https://github.com/AJ8GH/bowling-challenge)** | I test drove this client-side app for tracking bowling scores, after learning JavaScript for 5 days, applying CI/CD, BDD and OOP principles | JavaScript, Jasmine, Cypress, TravisCI, Coveralls, NYC, Karma, HTML, CSS, JQuery
 **[Code Timer](https://github.com/AJ8GH/code-timer)** | Node Module to measure the complexity of algorithms, written in Node.js, test driven using Mocha with 100% coverage, CI/CD set up using Travis, published on NPM | Node.js, Mocha, Travis CI, CodeCov, c8, nyc
-**[Chitter](https://github.com/AJ8GH/chitter-challenge)** | Twitter clone built using Ruby and Sinatra, with MVC architecture and PostgreSQL database | Ruby, Sinatra, PostgreSQL, PG, RSpec, Capybara, Rack, Puma, TravisCI, Coveralls
+**[Chitter](https://github.com/AJ8GH/chitter-challenge)** | Full-stack Twitter clone CRUD-app, built with Ruby and sinatra, applying TDD and BDD, and applying ORM techniques to the PostgreSQL database | Ruby, Sinatra, PostgreSQL, PG, RSpec, Capybara, TravisCI, Coveralls
 
 ## Skills
 
