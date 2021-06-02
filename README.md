@@ -39,7 +39,7 @@ Junior software engineer and Makers graduate, skilled in object oriented program
 ## Experience
 
 **Revolut**<br>
-**Talent Lead for Data Science & Software Engineering** - *Jun 19 - Nov 21*
+**Talent Lead for Data Science & Software Engineering** - *Jun 19 - Nov 20*
 
 * Interviewed 20+ candidates weekly, requiring excellent communication and organisational skills, driving the growth of the data science organisation from 20 headcount to 60 within 1 year
 * Displayed accuracy & attention to detail in a fast-paced, autonomous environment, consistently delivering on KPIs
@@ -113,7 +113,7 @@ Review feedback from Makers' independent coding review provider, demonstrating c
 ## Education
 
 ### University of Southampton
-**BA Music** - 2 years completion - *Sep 08 - Jul 10:*
+**BA Music** - 2 years completion - *Sep 08 - Jul 10*
 
 ## Interests
 * *Music:* Grade 8 Distinction in Classical Guitar, Grade 7 in Clarinet
