@@ -6,7 +6,7 @@ Adam Jonas
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Makers](#makers) | [Mentoring](#mentoring) | [Reviews](#reviews) | [Interests](#interests) | [LinkedIn](https://www.linkedin.com/in/adamjonas1/)
 
 ## Profile
-Junior software engineer and Makers graduate, skilled in object oriented programming and test driven development. Coming from a successful career in talent acquisition, I wanted a new challenge, to develop a craft, to build meaningful products and solve problems each day. I am excited to bring my passion and curiosity to a team that I can learn from and grow with.
+Junior software engineer and Makers graduate with excellent communication skills, and strengths in object oriented programming & test driven development. Coming from a successful career in talent acquisition, I am looking forward to the new challenge of developing my craft, building meaningful products and solving interesting problems each day. I am excited to bring my passion and curiosity to a team that I can learn from and grow with.
 
 ## Projects
 
@@ -84,22 +84,22 @@ Intensive 16 week software engineering bootcamp - *Jan 21 - Apr 21*
 
 ### Reviews
 
-Review feedback from Makers' independent coding review provider, demonstrating consistent improvement in all aspects of my developer process, achieving **strong** in all but one areas in my most recent review, and **steady** in the final area.
+Review feedback from Makers' independent coding review provider, demonstrating consistent improvement in all aspects of my developer process. In my most recent review, I received **strong** in all but one areas, and **steady** in the other. Click on a review to read the full feedback.
 
-[**Review 4** - 31 May 21](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view?usp=sharing)
+[**Review 4**](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view?usp=sharing) (31 May 21)
 * *Strong:* TDD, Fluency, Debugging, Modelling, Refactoring, Problem Solving, Writing easy to change code, Can justify the way I work
 * *Steady:* Agile
 
-[**Review 3** - 3 May 21](https://drive.google.com/file/d/1diKWnT0UndK8y9SKqCs19UIu4EhXYgxS/view?usp=sharing)
+[**Review 3**](https://drive.google.com/file/d/1diKWnT0UndK8y9SKqCs19UIu4EhXYgxS/view?usp=sharing) (3 May 21)
 * *Strong:* Fluency, Debugging, Modelling, Writing easy to change code,
 * *Steady:* TDD, Refactoring, Agile, Problem Solving, Agile, Can justify the way I work
 * *Improving:* Problem Solving
 
-[**Review 2** - 8 April 21](https://drive.google.com/file/d/1e0KK_wpX3vQt9dKdOTwQHEfGuwJFucCF/view?usp=sharing)
+[**Review 2**](https://drive.google.com/file/d/1e0KK_wpX3vQt9dKdOTwQHEfGuwJFucCF/view?usp=sharing) (8 April 21)
 * *Steady:* Modelling, Fluency, Debugging, Agile, Refactoring, Problem Solving, Agile, Writing easy to change code, Can justify the way I work
 * *Improving:* TDD
 
-[**Review 1** - 18 March 21](https://drive.google.com/file/d/1IxnW0jIle7KYc1AyOES-XsOk2Vj4jltV/view?usp=sharing)
+[**Review 1**](https://drive.google.com/file/d/1IxnW0jIle7KYc1AyOES-XsOk2Vj4jltV/view?usp=sharing) (18 March 21)
 * *Steady:* Modelling, Agile Process, Process
 * *Improving:* TDD, Fluency, Debugging, Refactoring, Problem Solving, Code Quality, Writing easy to change code
 
