@@ -84,24 +84,24 @@ Intensive 16 week software engineering bootcamp - *Jan 21 - Apr 21*
 
 ### Reviews
 
-Review feedback from Makers' independent coding review provider, demonstrating consistent improvement in my Developer process, with my most recent feedback indicating **strong** and **steady** in all areas
+Review feedback from Makers' independent coding review provider, demonstrating consistent improvement in all aspects of my developer process, achieving **strong** in all but one areas in my most recent review, and **steady** in the final area.
 
-* [**Review 4** - 31 May 21](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view?usp=sharing)
-  * *Strong:* TDD, Fluency, Debugging, Modelling, Refactoring, Problem Solving, Writing easy to change code, Can justify the way I work
-  * *Steady:* Agile
+[**Review 4** - 31 May 21](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view?usp=sharing)
+* *Strong:* TDD, Fluency, Debugging, Modelling, Refactoring, Problem Solving, Writing easy to change code, Can justify the way I work
+* *Steady:* Agile
 
-* [**Review 3** - 3 May 21](https://drive.google.com/file/d/1diKWnT0UndK8y9SKqCs19UIu4EhXYgxS/view?usp=sharing)
-  * *Strong:* Fluency, Debugging, Modelling, Writing easy to change code,
-  * *Steady:* TDD, Refactoring, Agile, Problem Solving, Agile, Can justify the way I work
-  * *Improving:* Problem Solving
+[**Review 3** - 3 May 21](https://drive.google.com/file/d/1diKWnT0UndK8y9SKqCs19UIu4EhXYgxS/view?usp=sharing)
+* *Strong:* Fluency, Debugging, Modelling, Writing easy to change code,
+* *Steady:* TDD, Refactoring, Agile, Problem Solving, Agile, Can justify the way I work
+* *Improving:* Problem Solving
 
-* [**Review 2** - 8 April 21](https://drive.google.com/file/d/1e0KK_wpX3vQt9dKdOTwQHEfGuwJFucCF/view?usp=sharing)
-  * *Steady:* Modelling, Fluency, Debugging, Agile, Refactoring, Problem Solving, Agile, Writing easy to change code, Can justify the way I work
-  * *Improving:* TDD
+[**Review 2** - 8 April 21](https://drive.google.com/file/d/1e0KK_wpX3vQt9dKdOTwQHEfGuwJFucCF/view?usp=sharing)
+* *Steady:* Modelling, Fluency, Debugging, Agile, Refactoring, Problem Solving, Agile, Writing easy to change code, Can justify the way I work
+* *Improving:* TDD
 
-* [**Review 1** - 18 March 21](https://drive.google.com/file/d/1IxnW0jIle7KYc1AyOES-XsOk2Vj4jltV/view?usp=sharing)
-  * *Steady:* Modelling, Agile Process, Process
-  * *Improving:* TDD, Fluency, Debugging, Refactoring, Problem Solving, Code Quality,
+[**Review 1** - 18 March 21](https://drive.google.com/file/d/1IxnW0jIle7KYc1AyOES-XsOk2Vj4jltV/view?usp=sharing)
+* *Steady:* Modelling, Agile Process, Process
+* *Improving:* TDD, Fluency, Debugging, Refactoring, Problem Solving, Code Quality, Writing easy to change code
 
 ### Certifications
 
