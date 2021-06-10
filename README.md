@@ -20,7 +20,7 @@ Junior software engineer and Makers graduate with excellent communication skills
 ## Skills
 
 ### Communication
-* My communication skills are excellent and were vital at Revolut, where I managed over 25 stakeholders and interviewed more than 20 candidates weekly. Strong empathy and listening skills were required and ultimately my work drove the growth of the data science team from 20-60 people within 1 year. These same skills enabled me to be a highly effective pair partner and team member at Makers.
+* My communication skills were vital at Revolut, where I managed over 25 stakeholders and interviewed more than 20 candidates weekly. Strong empathy and listening skills were required and ultimately my work drove the growth of the data science team from 20-60 people within 1 year. These same skills enabled me to be a highly effective pair partner and team member at Makers.
 
 ### Collaboration
 * I’m naturally collaborative and enjoy the productivity and learning that pair programming and team projects bring. At Makers I was able to contribute to my engineering team for our Acebook project (a web app clone of Facebook built with Ruby on Rails and PostgreSQL) by planning daily standups and retros, and initiating the idea of twice daily slack check-in to make sure everyone felt happy and productive. This was a key reason we were able to complete all of our core tickets and deliver an app that went far beyond the MVP we initially created.
@@ -29,10 +29,10 @@ Junior software engineer and Makers graduate with excellent communication skills
 * At Revolut, I collaborated with senior stakeholders across the business. At the end of 2019, I worked with the Data Science leadership team to solve a problem in the hiring process, where we were losing 80% of candidates at the technical hometask stage. By presenting data from the hiring funnel I demonstrated the problem to the business and worked with the Tech Leads to redesign the task, improving clarity and reducing the time requirement, leading to a 50% increase in candidate progression at hometask stage.
 
 ### Attention to Detail
-* Consitently demonstrating attention to detail, which has aided when debugging, producing high quality code, learning new concepts and building complex projects. This is evidenced in my [latest review feedback](https://www.linkedin.com/in/adamjonas1/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAA2mYQAByubFAbMVPWhifar6qQmehRaZ6Po,1635457412605)/), where I excelled in all areas, receiving **steady** for my agile developement process and **strong** in all other areas.
+* My code demonstrates my consistent attention to detail, which has immensely aided both my code quality and my learning. This is evidenced by very strong feedback in my [latest review](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view), where I received **steady** in agile and **strong** in all other areas.
 
 ### Leadership
-* Most recently displayed during my final project at Makers. Working in a 6 person team with many opinions and ideas, there were challenges in deciding on which core features and functionality to prioritise for our app. I initiated a team wide vote on which features were most important, and crucially how long each would take to implement. This allowed us to prioritise the most important user stories and to make realistic goals based on what we could achieve in the remaining time.
+* I applied my leadership skills in my final project at Makers. Our 6 person team has many opinions and ideas, with challenges around deciding on which features to prioritise for our app. I initiated a team wide vote on which features were most important, and how long each would take to implement. This allowed us to prioritise the most important user stories in our final sprint and deliver a fantastic app which we were all extremely proud of.
 
 *************
 
@@ -77,7 +77,7 @@ Intensive 16 week software engineering bootcamp - *Jan 21 - Apr 21*
 * **CI/CD:** Using **CircleCI** and **Travis** to automate automate builds, run test suites and generate coverage reports
 * **Pair Programming:** Highly effective at **collaborating** and **pairing** with other developers
 
-### Mentoring
+### Volunteering
 
 * **Makers Academy:** Volunteered to mentor a fellow Makers student through their time on the course
 * **Exercism:** Member of the Ruby mentoring team for coding learning website [Exercism.io](https://exercism.io)
