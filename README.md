@@ -32,7 +32,7 @@ Junior software engineer and Makers graduate with excellent communication skills
 * My code demonstrates my consistent attention to detail, which has immensely aided both my code quality and my learning. This is evidenced by very strong feedback in my [latest review](https://drive.google.com/file/d/1pTHGox77Wf84Y5FCDSn3JSpmfOoaFZaz/view), where I received **steady** in agile and **strong** in all other areas.
 
 ### Leadership
-* I applied my leadership skills in my final project at Makers. Our 6 person team has many opinions and ideas, with challenges around deciding on which features to prioritise for our app. I initiated a team wide vote on which features were most important, and how long each would take to implement. This allowed us to prioritise the most important user stories in our final sprint and deliver a fantastic app which we were all extremely proud of.
+* I applied my leadership skills in my final project at Makers. Our 6 person team had many opinions and ideas, with challenges around deciding on which features to prioritise for our app. I initiated a team wide vote on which features were most important and how long each would take to implement. This allowed us to prioritise the most important user stories in our final sprint and aided the delivery of a fantastic app which we were all extremely proud of.
 
 *************
 
